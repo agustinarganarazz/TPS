@@ -31,7 +31,7 @@ const Footer = () => {
             floating
             className='m-1'
             style={{ backgroundColor: '#ac2bac' }}
-            href='https://www.instagram.com/aletorres0'
+            href='https://www.instagram.com/agustin.arganaraz'
             role='button'
           >
             <MDBIcon fab icon='instagram' />
