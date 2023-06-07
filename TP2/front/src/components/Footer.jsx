@@ -56,9 +56,6 @@ const Footer = () => {
         </a>
       </div>
     </MDBFooter>
-
-
-        
        
         
         
